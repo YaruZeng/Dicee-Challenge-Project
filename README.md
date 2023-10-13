@@ -9,4 +9,4 @@ Welcome to my Dicee Challenge project. It's a Frontend project supported by CSS,
 
 Play the game for fun. :)
 
-https://ivyzayn.github.io/Dicee-Challenge-Project/
+https://yaruzeng.github.io/Dicee-Challenge-Project/
